@@ -70,8 +70,6 @@ const Calculator = () => {
                 </div>
             </div>
         </>
-
-
     );
 };
 
